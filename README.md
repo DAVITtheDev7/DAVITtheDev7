@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I'm currently thinking about my future🌍
+ 🔭 I'm currently working on Twitty - Simple Social Media app📱
 
 💬 Ask me about **Kotlin, Python, C++, Firebase... [here](https://github.com/DAVITtheDev7/Feedback/issues/1)**
 
