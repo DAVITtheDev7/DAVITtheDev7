@@ -45,6 +45,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
     <img width="12" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" alt="js logo"  />
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
