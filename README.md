@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I'm currently working on Twitty - Simple Social Media app📱
+ 🔭 I'm currently working on Damalobana - First Georgian real-time multiplayer game🤳
 
 💬 Ask me about **Kotlin, Python, C++, Firebase... [here](https://github.com/DAVITtheDev7/Feedback/issues/1)**
 
