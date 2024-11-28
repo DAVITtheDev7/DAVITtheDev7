@@ -12,7 +12,7 @@
  
  🔭 I'm currently working on [Damalobana](https://github.com/DAVITtheDev7/Damalobana-IRL) - First Georgian real-time multiplayer game🤳
 
-💬 Ask me about **Kotlin, Python, C++, Firebase... [here](https://github.com/DAVITtheDev7/Feedback/issues/1)**
+💬 Ask me about **Kotlin, Dart/Flutter, C++, Firebase... [here](https://github.com/DAVITtheDev7/Feedback/issues/1)**
 
  </div>
  
