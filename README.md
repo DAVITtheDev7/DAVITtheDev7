@@ -35,7 +35,7 @@
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="40" alt="Dart logo"  />
     <img width="12" />
-    <img src="https://images.seeklogo.com/logo-png/35/1/flutter-logo-png_seeklogo-354671.png" height="40" alt="Flutter logo"  />
+    <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" height="40" alt="Flutter logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
     <img width="12" />
