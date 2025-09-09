@@ -35,7 +35,7 @@
 Check out all my projects: [mamuladzedavid.netlify.app](https://mamuladzedavid.netlify.app/)
 
 ### 💬 Ask Me About
-Flutter | Dart | Firebase | Kotlin | Python
+Flutter | Dart | Firebase | Kotlin 
 
 ### 📫 Contact Me
 Email: [datamamuladze@gmail.com](mailto:datamamuladze@gmail.com)
