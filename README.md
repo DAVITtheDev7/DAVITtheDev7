@@ -7,9 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davitthedev7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
 ---
-
 ### 🔭 Currently Working On
 **Damalobana** – An exciting project in Flutter & Dart 🚀
 
@@ -21,9 +19,7 @@ Flutter | Dart | Firebase | Kotlin
 
 ### 📫 Contact Me
 Email: [datamamuladze@gmail.com](mailto:datamamuladze@gmail.com)
-
 ---
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/davit.mamuladze.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d.avit_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IAMDAVID666) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:datamamuladze@gmail.com) 
 
