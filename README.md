@@ -10,7 +10,7 @@
 ---
 ### 🔭 Currently Working On
 **Damalobana** – An exciting project in Flutter & Dart 🚀
-
+---
 ### 👨‍💻 Portfolio
 Check out all my projects: [mamuladzedavid.netlify.app](https://mamuladzedavid.netlify.app/)
 
