@@ -11,7 +11,7 @@
 ---
 
 ### 🔭 Currently Working On
-**Damalobana** – An exciting project in Flutter & Dart 🚀
+**MY BSU** – An university mobile app🚀
 
 ### 👨‍💻 Portfolio
 Check out all my projects: [mamuladzedavid.netlify.app](https://mamuladzedavid.netlify.app/)
