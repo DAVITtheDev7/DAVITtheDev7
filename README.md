@@ -14,7 +14,7 @@
 **MY BSU** – An university mobile app🚀
 
 ### 👨‍💻 Portfolio
-Check out all my projects: [mamuladzedavid.netlify.app](https://mamuladzedavid.netlify.app/)
+Check out all my projects: [mamuladze.dev](https://mamuladze.dev/)
 
 ### 💬 Ask Me About
 Flutter | Dart | Firebase | Kotlin 
